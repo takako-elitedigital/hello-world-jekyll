@@ -1,26 +1,26 @@
 # ref: https://www.healthline.com/nutrition/10-herbal-teas#TOC_TITLE_HDR_3
 
 - name: Chamomile tea
-  img: /assets/img/harbal-teas/chamomile.jpg
+  img: /assets/img/herbal-teas/chamomile.jpg
   path: /chamomile
   description: Chamomile tea is most commonly known for its calming effects and is frequently used as a sleep aid.In fact, studies show that it could improve sleep quality in older adults and postpartum women.What's more, chamomile is also believed to have antibacterial, anti-inflammatory, and liver-protecting effects.Other research also shows that chamomile could improve blood sugar control and ease symptoms of premenstrual syndrome (PMS).
 
 - name: Peppermint tea
-  img: /assets/img/harbal-teas/peppermint.webp
+  img: /assets/img/herbal-teas/peppermint.webp
   path: /peppermint
   description: Though peppermint tea is most popularly used to support digestive health, it also has antioxidant, anticancer, antibacterial, and antiviral properties.Several studies have shown that preparations of peppermint oil can help relieve indigestion, nausea, stomach pain, and other symptoms of irritable bowel syndrome. However, keep in mind that it's unclear whether the amount of peppermint oil found in peppermint tea has the same effect as the concentrated supplements used in these studies. Therefore, more research is needed.
 
 - name: Ginger tea
-  img: /assets/img/harbal-teas/ginger.jpg
+  img: /assets/img/herbal-teas/ginger.jpg
   path: /ginger
   description: Ginger tea packs a punch of disease-fighting antioxidants and is a well-known remedy for nausea. Studies consistently find that ginger is effective at relieving nausea, especially in early pregnancy, although it may also relieve nausea caused by cancer treatments and surgery. Evidence also suggests that ginger may help prevent stomach ulcers, relieve indigestion, and reduce pain associated with menstruation. What's more, some studies show that ginger supplements could improve blood sugar control and lipid levels in people with diabetes.
 
 - name: Hibiscus tea
-  img: /assets/img/harbal-teas/hibiscus.jpg
+  img: /assets/img/herbal-teas/hibiscus.jpg
   path: /hibiscus
   description: In addition to its bold color and unique flavor, hibiscus tea offers healthful properties. In fact, though research is mixed, some studies show that hibiscus could significantly reduce total and LDL (bad) cholesterol, along with blood pressure. What's more, another study found that taking hibiscus tea extract for 6 weeks significantly decreased oxidative stress in male soccer players. However, be sure to talk with a doctor before drinking hibiscus tea if you're taking diuretics, as it may interact with your medications.
 
 - name: Echinacea tea
-  img: /assets/img/harbal-teas/echinacea.jpg
+  img: /assets/img/herbal-teas/echinacea.jpg
   path: /echinacea
   description: Echinacea tea is a popular remedy that's said to prevent and treat the common cold. Evidence has shown that echinacea may help boost the immune system, which could help the body defend against infections. Though more research is needed, some studies have also found that echinacea can shorten the duration of the common cold or lessen the severity of symptoms.
